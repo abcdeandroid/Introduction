@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         lista.add(new Slide().
                 withTitle("Abc de Android").
                 withDescription("Ejemplo de Descripcion").
-                withColorResource(R.color.background_material_dark).
+                withColorResource(R.color.accent_material_dark).
                 withImage(R.mipmap.abcdeandroid));
 
         lista.add(new Slide().
