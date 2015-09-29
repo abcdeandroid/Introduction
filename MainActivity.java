@@ -26,13 +26,13 @@ public class MainActivity extends AppCompatActivity {
 
         lista.add(new Slide().
                 withTitle("Abc de Android").
-                withDescription("Ejemplo de Descripcion").
+                withDescription("Ejemplo de Descripció").
                 withColorResource(R.color.accent_material_dark).
                 withImage(R.mipmap.abcdeandroid));
 
         lista.add(new Slide().
                 withTitle("Segunda pantalla").
-                withDescription("Logo diseñador por Freepik").
+                withDescription("Logo diseñado por Freepik").
                 withColorResource(R.color.material_deep_teal_500).
                 withImage(R.mipmap.freepik));
 
